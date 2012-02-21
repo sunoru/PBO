@@ -1,4 +1,5 @@
 build/
+!build/Data/
 bin/
 obj/
 *.suo
